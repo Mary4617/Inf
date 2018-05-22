@@ -1,0 +1,30 @@
+﻿#MyDiv1{border: solid mediumspringgreen 20px;
+	width: 400px;
+	height:400px;
+         }
+#MyDiv2{border: solid lightgrey 20px;
+	width: 400px;
+	height:400px;
+         }
+#MyDiv3{border: solid darksalmon 20px;
+	width: 400px;
+	height:400px;
+        font-variant: normal;
+         }
+#MyDiv4{border: solid aquamarine 20px;
+	width: 400px;
+	height:400px;
+         }
+#MyDiv5{border: solid indigo 20px;
+        height:400px;
+	width: 400px;
+	 }
+#MyDiv6{border: solid thistle 20px;
+	width: 400px;
+	height:400px;
+        background-image: url(morty.gif);
+         }
+#MyDiv7{border: solid navy 20px;
+	width: 400px;
+	height:400px;
+         }
